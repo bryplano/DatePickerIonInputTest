@@ -12,9 +12,9 @@ export class HomePage {
 
   constructor(private datePicker: DatePicker) { }
 
-  showDateOfBirth(event: Event): void {
+  chooseDate(event: Event): void {
 
-    console.log('HomePage#showDateOfBirth');
+    console.log('chooseDate');
     event.stopPropagation();
 
     this.datePicker.show({
