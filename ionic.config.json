@@ -1,5 +1,7 @@
 {
   "name": "MedMutDatepickerTest",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
