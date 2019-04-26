@@ -15,7 +15,7 @@ export class HomePage {
   chooseDate(event: Event): void {
 
     console.log('chooseDate');
-    event.stopPropagation();
+    //event.stopPropagation();
 
     this.datePicker.show({
       date: this.currentDate,
