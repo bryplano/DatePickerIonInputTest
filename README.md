@@ -1,6 +1,6 @@
 # DatePickerIonInputTest
 
-This is a sample Ionic 4.3.0 application that demos using the @ionic-native/datepicker wrapper and cordova-plugin-datepicker within the confines of an @ionic/angular 4.X app.
+This is a sample application that demonstrates a UI issue related to using `ion-input` alongside `cordova-plugin-datepicker` in an @ionic/angular 4.3.0 app.
 
 To run this application:
 
